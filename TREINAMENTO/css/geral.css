@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    scroll-behavior: auto;
+
+}
+
+body {
+    margin: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+
+  }
+
+.container {
+
+    margin: 2em 20em 2em 20em;
+
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.conteudo {
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+
+.chart {
+    
+}
